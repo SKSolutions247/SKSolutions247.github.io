@@ -67,7 +67,7 @@ form.addEventListener("submit", function (event) {
 
   const email = cleanInput(document.getElementById("email").value);
 
-  const matter = document.getElementById("matter").value;
+  const matter = document.getElementById("message").value;
 
   const message = cleanInput(document.getElementById("message").value);
 
