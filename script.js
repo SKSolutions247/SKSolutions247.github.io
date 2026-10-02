@@ -2,7 +2,7 @@
 // ADVOCATE EMAIL
 // ==========================================
 
-const ADVOCATE_EMAIL = "skkumbhar7654@gmail.com";
+const ADVOCATE_EMAIL = "sckumbhar7654@gmail.com";
 
 // ==========================================
 // MOBILE NAVIGATION
